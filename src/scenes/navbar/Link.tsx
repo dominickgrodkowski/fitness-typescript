@@ -22,3 +22,4 @@ const Link = ({ page, selectedPage, setSelectedPage }: Props) => {
     </AnchorLink>
   )
 }
+export default Link;
