@@ -5,7 +5,7 @@ import HomePageText from "@/assets/HomePageText.png"; // Change  graphic text ma
 import HomePageGraphic from "@/assets/HomePageGraphic.png";
 import SponsorRedBull from "@/assets/SponsorRedBull.png";
 import SponsorForbes from "@/assets/SponsorForbes.png";
-import SponsorFortune from "@/assets/SponsorFortune.png";
+import SponsorAverruncus from "@/assets/SponsorAverruncus.png";
 import AnchorLink from "react-anchor-link-smooth-scroll";
 import { motion } from "framer-motion";
 
@@ -90,7 +90,7 @@ type Props = {
             <div className="flex w-3/5 items-center justify-between gap-8">
               <img alt="redbull-sponsor" src={SponsorRedBull} />
               <img alt="forbes-sponsor" src={SponsorForbes} />
-              <img alt="fortune-sponsor" src={SponsorFortune} />
+              <img alt="Averruncus-sponsor" src={SponsorAverruncus} />
             </div>
           </div>
         </div>
