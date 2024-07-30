@@ -15,19 +15,19 @@ const benefits: Array<BenefitType> = [
     icon: <HomeModernIcon className="h-6 w-6" />,
     title: "State of the Art Facilities",
     description:
-      "Neque adipiscing amet amet enim. Feugiat dolor enim fermentum in a in lectus pellentesque. Ullamcorper et.",
+    "Experience the best in fitness with our state-of-the-art facilities, equipped with the latest technology and equipment to support your training. From spacious workout areas to cutting-edge machines, we provide everything you need for an effective and enjoyable workout.",
   },
   {
     icon: <UserGroupIcon className="h-6 w-6" />,
     title: "100's of Diverse Classes",
     description:
-      "Eu ipsum id egestas risus tempus enim semper felis quis. Nec consectetur ac venenatis facilisi est. Eget ac turpis id.",
+      "Discover a wide variety of classes designed to fit every interest and fitness level. Whether you're into high-intensity workouts, yoga, dance, or strength training, our diverse class offerings ensure there's something for everyone.",
   },
   {
     icon: <AcademicCapIcon className="h-6 w-6" />,
     title: "Expert and Pro Trainers",
     description:
-      "Fusce vestibulum aliquam ut cras. Nisl lectus egestas sapien nisl. Lacus at mi sit pellentesque. Congue parturient.",
+      "Our team of expert and professional trainers are here to guide and inspire you. With personalized coaching and extensive experience, they provide the knowledge and support you need to reach your fitness goals safely and effectively.",
   },
 ];
 
@@ -131,18 +131,12 @@ const Benefits = ({ setSelectedPage }: Props) => {
               }}
             >
               <p className="my-5">
-                Nascetur aenean massa auctor tincidunt. Iaculis potenti amet
-                egestas ultrices consectetur adipiscing ultricies enim. Pulvinar
-                fames vitae vitae quis. Quis amet vulputate tincidunt at in
-                nulla nec. Consequat sed facilisis dui sit egestas ultrices
-                tellus. Ullamcorper arcu id pretium sapien proin integer nisl.
-                Felis orci diam odio.
+              Join the Evogym community and be a part of millions of happy members who have transformed their lives through fitness. Our supportive and motivating environment helps you achieve your health and fitness goals, no matter your starting point. With a wide variety of classes, state-of-the-art facilities, and expert trainers, we provide everything you need to succeed. 
               </p>
               <p className="mb-5">
-                Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est
-                tellus quam porttitor. Mauris velit euismod elementum arcu neque
-                facilisi. Amet semper tortor facilisis metus nibh. Rhoncus sit
-                enim mattis odio in risus nunc.
+              Experience the joy of getting fit, making new friends, and becoming the best version of yourself at Evogym.
+              Ready to start your fitness journey?
+              Click the button below and join us today!
               </p>
             </motion.div>
 
