@@ -4,7 +4,7 @@ import ActionButton from "@/shared/ActionButton";
 import HomePageText from "@/assets/HomePageText.png"; // Change  graphic text maybe 
 import HomePageGraphic from "@/assets/HomePageGraphic.png";
 import SponsorRedBull from "@/assets/SponsorRedBull.png";
-import SponsorForbes from "@/assets/SponsorForbes.png";
+import SponsorDominick from "@/assets/SponsorDominick.png";
 import SponsorAverruncus from "@/assets/SponsorAverruncus.png";
 import AnchorLink from "react-anchor-link-smooth-scroll";
 import { motion } from "framer-motion";
@@ -89,7 +89,7 @@ type Props = {
           <div className="mx-auto w-5/6">
             <div className="flex w-3/5 items-center justify-between gap-8">
               <img alt="redbull-sponsor" src={SponsorRedBull} />
-              <img alt="forbes-sponsor" src={SponsorForbes} />
+              <img alt="Dominick-sponsor" src={SponsorDominick} />
               <img alt="Averruncus-sponsor" src={SponsorAverruncus} />
             </div>
           </div>
