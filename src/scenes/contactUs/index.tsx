@@ -46,9 +46,7 @@ const ContactUs = ({ setSelectedPage }: Props) => {
             <span className="text-primary-500">JOIN NOW</span> TO GET IN SHAPE
           </HText>
           <p className="my-5">
-            Congue adipiscing risus commodo placerat. Tellus et in feugiat nisl
-            sapien vel rhoncus. Placerat at in enim pellentesque. Nulla
-            adipiscing leo egestas nisi elit risus sit. Nunc cursus sagittis.
+          Transform your life and achieve your fitness goals with Evogym. Our welcoming community, top-notch facilities, and expert trainers are here to support you every step of the way. Whether you're a beginner or a fitness enthusiast, we have everything you need to succeed. Don't wait any longer! Take the first step towards a healthier, happier you today!
           </p>
         </motion.div>
 
